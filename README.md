@@ -8,6 +8,9 @@ Hobbyist prgogrammer.
 
 
 - 🔭 I’m currently working on haxor-bot and personal website,
-- 🌱 I’m currently learning js.
-- 📫 How to reach me: cudden5udd@gmail.com
+- 🌱 I’m currently learning js and C#
+- 📫 How to reach me : cudden5udd@gmail.com
+- 🎮 or join my discord ! : https://discord.gg/WRBKXz9dTT
+- 🌐 Website : https://sawano.000webhostapp.com
 
+Reversing / hacking related topics ? contact me !
